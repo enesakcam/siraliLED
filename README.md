@@ -7,5 +7,5 @@
 • 4 adet 220Ω (kırmızı, kırmızı, kahverengi, altın rengi) direnç</br>
 • Bağlantı kabloları</br>
 
-
+Arama Moturu [Google](https://www.google.com.tr/).
 ![Ekran Alıntısı LED](https://user-images.githubusercontent.com/114646932/198235860-d5d56855-a1ad-4c39-bbac-684430514fab.PNG)
